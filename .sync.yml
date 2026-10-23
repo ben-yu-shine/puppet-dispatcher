@@ -42,7 +42,7 @@ Gemfile:
 .rubocop.yml:
   default_configs:
     AllCops:
-      TargetRubyVersion: '3.2'
+      TargetRubyVersion: '4.0'
     Style/WordArray:
       EnforcedStyle: percent
     Layout/EmptyLinesAroundBlockBody:
